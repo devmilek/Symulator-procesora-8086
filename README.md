@@ -2,7 +2,7 @@
 
 Ten skrypt symuluje zachowanie procesora 8086. Obsługuje operacje matematyczne na rejestrach, takie jak: dodawanie, odejmowanie, mnożenie i dzielenie.
 
-## Registers
+## Rejestry
 
 Skrypt obsługuje następujące rejestry:
 
@@ -10,7 +10,7 @@ Skrypt obsługuje następujące rejestry:
 - 16-bitowe rejestry: AX, CX, DX, BX, SP, BP, SI, DI
 - 32-bitowe rejestry: EAX, ECX, EDX, EBX, ESP, EBP, ESI, EDI
 
-## Operations
+## Operacje
 
 Skrypt obsługuje następujące operacje:
 
